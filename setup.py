@@ -8,7 +8,7 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 
 setup(
     name="clutch-scraper",
-    version="1.2.2",
+    version="1.2.3",
     author="Dhawal Bisht",
     author_email="dhawalbisht4543@gmail.com",
     description="A CLI tool to scrape company reviews from Clutch.co",
