@@ -201,45 +201,6 @@ def display_categories():
     }
     return categories
 
-    # """Display available categories for user selection"""
-    # categories = {
-    #     1: ("Development", {
-    #         1: ("Web Developers", "web-developers"),
-    #         2: ("Software Developers", "developers"),
-    #         3: ("Mobile App Development", "app-developers"),
-    #         4: ("eCommerce", "ecommerce-developers"),
-    #         5: ("WordPress Developers", "wordpress"),
-    #         6: ("Shopify", "shopify"),
-    #         7: ("Ruby on Rails", "ruby-rails"),
-    #         8: ("PHP", "php"),
-    #         9: ("Drupal", "drupal"),
-    #         10: ("Magento", "magento")
-    #     }),
-    #     2: ("Marketing", {
-    #         1: ("Digital Marketing", "digital-marketing-agencies"),
-    #         2: ("SEO", "seo-companies"),
-    #         3: ("PPC", "ppc-companies"),
-    #         4: ("Social Media Marketing", "social-media-marketing"),
-    #         5: ("Content Marketing", "content-marketing"),
-    #         6: ("Email Marketing", "email-marketing"),
-    #         7: ("Branding", "branding-agencies"),
-    #         8: ("Public Relations", "pr-firms")
-    #     }),
-    #     3: ("Design", {
-    #         1: ("Web Design", "web-designers"),
-    #         2: ("UX/UI Design", "web-designers"),
-    #         3: ("Graphic Design", "graphic-designers"),
-    #         4: ("Logo Design", "logo-designers"),
-    #         5: ("Product Design", "product-designers")
-    #     }),
-    #     4: ("IT Services", {
-    #         1: ("IT Services", "it-services"),
-    #         2: ("Cybersecurity", "cybersecurity"),
-    #         3: ("Cloud Consulting", "cloud-consulting"),
-    #         4: ("Managed IT Services", "managed-it-services")
-    #     })
-    # }
-    # return categories
 
 def get_user_category_selection():
     """Get category selection from user"""
