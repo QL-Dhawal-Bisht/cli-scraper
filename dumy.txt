@@ -1,0 +1,184 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "Alice%20Bodnar%20Atlas%20Guides%20linkedin",
+    "results_cnt": 1,
+    "search_time": 0.29,
+    "language": "en",
+    "location": "United States",
+    "mobile": false,
+    "basic_view": false,
+    "search_type": "text",
+    "page_title": "Alice%20Bodnar%20Atlas%20Guides%20linkedin - Google Search",
+    "timestamp": "2025-08-30T16:27:54.715Z"
+  },
+  "input": {
+    "original_url": "https://google.com/search?q=Alice%2520Bodnar%2520Atlas%2520Guides%2520linkedin&gl=US&hl=en&brd_json=1",
+    "user_agent": "BRD www/1.566.838",
+    "request_id": "hl_b5f7b95e_d520r3bqc1d"
+  },
+  "navigation": [
+    {
+      "title": "Images",
+      "href": "https://google.com/search?sca_esv=aaab0204b1a39732&gl=US&hl=en&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3xRFvZ0M2vJLB0hUMk5HOE2JYHbn8EkAxflxA6nxAnoTjo3EIll7vwAaYSIFkGVKs8Nj0GWOZvTlWe2MMyK9ujpXnThppgCVqrjxcI3bgG882boDQ_DugkqYronBzw59ZSqNvlpA&q=Alice%2520Bodnar%2520Atlas%2520Guides%2520linkedin&sa=X&ved=2ahUKEwiuwMf2-bKPAxUTUqQEHRKCHb8QtKgLegQIGBAB"
+    },
+    {
+      "title": "Videos",
+      "href": "https://google.com/search?sca_esv=aaab0204b1a39732&gl=US&hl=en&udm=7&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3xRFvZ0M2vJLB0hUMk5HOE2JYHbn8EkAxflxA6nxAnoTjo3EIll7vwAaYSIFkGVKs8Nj0GWOZvTlWe2MMyK9ujpXnThppgCVqrjxcI3bgG882boDQ_DugkqYronBzw59ZSqNvlpA&q=Alice%2520Bodnar%2520Atlas%2520Guides%2520linkedin&sa=X&ved=2ahUKEwiuwMf2-bKPAxUTUqQEHRKCHb8QtKgLegQIFxAB"
+    },
+    {
+      "title": "Shopping",
+      "href": "https://google.com/search?sca_esv=aaab0204b1a39732&gl=US&hl=en&udm=28&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3xRFvZ0M2vJLB0hUMk5HOE2JYHbn8EkAxflxA6nxAnoTjo3EIll7vwAaYSIFkGVKs8Nj0GWOZvTlWe2MMyK9ujpXnThppgCVqrjxcI3bgG882boDQ_DugkqYronBzw59ZSqNvlpA&q=Alice%2520Bodnar%2520Atlas%2520Guides%2520linkedin&ved=1t:220175&ictx=111"
+    },
+    {
+      "title": "Short videos",
+      "href": "https://google.com/search?sca_esv=aaab0204b1a39732&gl=US&hl=en&udm=39&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3xRFvZ0M2vJLB0hUMk5HOE2JYHbn8EkAxflxA6nxAnoTjo3EIll7vwAaYSIFkGVKs8Nj0GWOZvTlWe2MMyK9ujpXnThppgCVqrjxcI3bgG882boDQ_DugkqYronBzw59ZSqNvlpA&q=Alice%2520Bodnar%2520Atlas%2520Guides%2520linkedin&sa=X&ved=2ahUKEwiuwMf2-bKPAxUTUqQEHRKCHb8Qs6gLegQIFBAB"
+    },
+    {
+      "title": "Forums",
+      "href": "https://google.com/search?sca_esv=aaab0204b1a39732&gl=US&hl=en&udm=18&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3xRFvZ0M2vJLB0hUMk5HOE2JYHbn8EkAxflxA6nxAnoTjo3EIll7vwAaYSIFkGVKs8Nj0GWOZvTlWe2MMyK9ujpXnThppgCVqrjxcI3bgG882boDQ_DugkqYronBzw59ZSqNvlpA&q=Alice%2520Bodnar%2520Atlas%2520Guides%2520linkedin&sa=X&ved=2ahUKEwiuwMf2-bKPAxUTUqQEHRKCHb8Qs6gLegQIFhAB"
+    },
+    {
+      "title": "Web",
+      "href": "https://google.com/search?sca_esv=aaab0204b1a39732&gl=US&hl=en&udm=14&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3xRFvZ0M2vJLB0hUMk5HOE2JYHbn8EkAxflxA6nxAnoTjo3EIll7vwAaYSIFkGVKs8Nj0GWOZvTlWe2MMyK9ujpXnThppgCVqrjxcI3bgG882boDQ_DugkqYronBzw59ZSqNvlpA&q=Alice%2520Bodnar%2520Atlas%2520Guides%2520linkedin&sa=X&ved=2ahUKEwiuwMf2-bKPAxUTUqQEHRKCHb8Qs6gLegQIHhAB"
+    },
+    {
+      "title": "Maps",
+      "href": "https://maps.google.com/maps?sca_esv=aaab0204b1a39732&gl=US&hl=en&output=search&q=Alice%2520Bodnar%2520Atlas%2520Guides%2520linkedin&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3xRFvZ0M2vJLB0hUMk5HOE2JYHbn8EkAxflxA6nxAnoTjo3EIll7vwAaYSIFkGVKs8Nj0GWOZvTlWe2MMyK9ujpXnThppgCVqrjxcI3bgG882boDQ_DugkqYronBzw59ZSqNvlpA&entry=mc&ved=1t:200715&ictx=111"
+    },
+    {
+      "title": "News",
+      "href": "https://google.com/search?sca_esv=aaab0204b1a39732&gl=US&hl=en&q=Alice%2520Bodnar%2520Atlas%2520Guides%2520linkedin&tbm=nws&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3xRFvZ0M2vJLB0hUMk5HOE2JYHbn8EkAxflxA6nxAnoTjo3EIll7vwAaYSIFkGVKs8Nj0GWOZvTlWe2MMyK9ujpXnThppgCVqrjxcI3bgG882boDQ_DugkqYronBzw59ZSqNvlpA&sa=X&ved=2ahUKEwiuwMf2-bKPAxUTUqQEHRKCHb8Q0pQJegQIHxAB"
+    },
+    {
+      "title": "Books",
+      "href": "https://google.com/search?sca_esv=aaab0204b1a39732&gl=US&hl=en&q=Alice%2520Bodnar%2520Atlas%2520Guides%2520linkedin&udm=36&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3xRFvZ0M2vJLB0hUMk5HOE2JYHbn8EkAxflxA6nxAnoTjo3EIll7vwAaYSIFkGVKs8Nj0GWOZvTlWe2MMyK9ujpXnThppgCVqrjxcI3bgG882boDQ_DugkqYronBzw59ZSqNvlpA&sa=X&ved=2ahUKEwiuwMf2-bKPAxUTUqQEHRKCHb8Q0pQJegQIIBAB"
+    }
+  ],
+  "organic": [
+    {
+      "link": "https://www.linkedin.com/in/alice-bodnar-75906470",
+      "display_link": "520+ followers",
+      "title": "Alice Bodnar - Co-owner / COO / General Counsel at FarOut",
+      "description": "Atlas Guides Graphic. Head Of Operations & General Counsel. Atlas Guides. Oct 2012 - Dec 2019 7 years 3 months. Flagstaff, Arizona Area. Long Distance Hiker.",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "20Bodnar%",
+          "rank": 1
+        },
+        {
+          "type": "missing",
+          "text": "20Atlas%",
+          "rank": 2
+        },
+        {
+          "type": "missing",
+          "text": "20Guides%",
+          "rank": 3
+        },
+        {
+          "type": "missing",
+          "text": "20linkedin",
+          "rank": 4
+        }
+      ],
+      "rank": 1,
+      "global_rank": 1
+    }
+  ],
+  "spelling": {
+    "suggested_link": "https://google.com/search?sca_esv=aaab0204b1a39732&gl=US&hl=en&q=Alice%2520+Bodnar%2520+Atlas%2520+Guides%2520linkedin&spell=1&sa=X&ved=2ahUKEwiuwMf2-bKPAxUTUqQEHRKCHb8QBSgAegQIERAB",
+    "suggested_text": "Alice%20 Bodnar%20 Atlas%20 Guides%20linkedin"
+  }
+}
+
+
+{
+  "general": {
+    "search_engine": "google",
+    "query": "Joakim%20Rosen%20YouWish%20AS%20linkedin",
+    "results_cnt": 1,
+    "search_time": 0.27,
+    "language": "en",
+    "location": "United States",
+    "mobile": false,
+    "basic_view": false,
+    "search_type": "text",
+    "page_title": "Joakim%20Rosen%20YouWish%20AS%20linkedin - Google Search",
+    "timestamp": "2025-08-30T16:30:40.721Z"
+  },
+  "input": {
+    "original_url": "https://google.com/search?q=Joakim%2520Rosen%2520YouWish%2520AS%2520linkedin&gl=US&hl=en&brd_json=1",
+    "user_agent": "BRD www/1.566.838",
+    "request_id": "hl_b5f7b95e_dl0focwfm8"
+  },
+  "navigation": [
+    {
+      "title": "AI Mode",
+      "href": "https://google.com/search?q=Joakim%2520Rosen%2520YouWish%2520AS%2520linkedin&sca_esv=aaab0204b1a39732&gl=US&hl=en&udm=50&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3x-dd8PyEzi5Y9BtPQcYyUv-qqGBKcZRAt6t3qPZ3-iSZ6GtBRrUomyC2rUgS4TDygQfIaiWCtBi0gw2eDDygE9ZsO235rUXAUX4XMOSF0AZ0oNb07blcuzshZNivp14ZK7ZppxA&aep=1&ntc=1&sa=X&ved=2ahUKEwib39zF-rKPAxUxdqQEHXVNGscQ2J8OegQIFBAD"
+    },
+    {
+      "title": "Images",
+      "href": "https://google.com/search?sca_esv=aaab0204b1a39732&gl=US&hl=en&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3x-dd8PyEzi5Y9BtPQcYyUv-qqGBKcZRAt6t3qPZ3-iSZ6GtBRrUomyC2rUgS4TDygQfIaiWCtBi0gw2eDDygE9ZsO235rUXAUX4XMOSF0AZ0oNb07blcuzshZNivp14ZK7ZppxA&q=Joakim%2520Rosen%2520YouWish%2520AS%2520linkedin&sa=X&ved=2ahUKEwib39zF-rKPAxUxdqQEHXVNGscQtKgLegQIGRAB"
+    },
+    {
+      "title": "Videos",
+      "href": "https://google.com/search?sca_esv=aaab0204b1a39732&gl=US&hl=en&udm=7&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3x-dd8PyEzi5Y9BtPQcYyUv-qqGBKcZRAt6t3qPZ3-iSZ6GtBRrUomyC2rUgS4TDygQfIaiWCtBi0gw2eDDygE9ZsO235rUXAUX4XMOSF0AZ0oNb07blcuzshZNivp14ZK7ZppxA&q=Joakim%2520Rosen%2520YouWish%2520AS%2520linkedin&sa=X&ved=2ahUKEwib39zF-rKPAxUxdqQEHXVNGscQtKgLegQIGBAB"
+    },
+    {
+      "title": "Shopping",
+      "href": "https://google.com/search?sca_esv=aaab0204b1a39732&gl=US&hl=en&udm=28&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3x-dd8PyEzi5Y9BtPQcYyUv-qqGBKcZRAt6t3qPZ3-iSZ6GtBRrUomyC2rUgS4TDygQfIaiWCtBi0gw2eDDygE9ZsO235rUXAUX4XMOSF0AZ0oNb07blcuzshZNivp14ZK7ZppxA&q=Joakim%2520Rosen%2520YouWish%2520AS%2520linkedin&ved=1t:220175&ictx=111"
+    },
+    {
+      "title": "Short videos",
+      "href": "https://google.com/search?sca_esv=aaab0204b1a39732&gl=US&hl=en&udm=39&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3x-dd8PyEzi5Y9BtPQcYyUv-qqGBKcZRAt6t3qPZ3-iSZ6GtBRrUomyC2rUgS4TDygQfIaiWCtBi0gw2eDDygE9ZsO235rUXAUX4XMOSF0AZ0oNb07blcuzshZNivp14ZK7ZppxA&q=Joakim%2520Rosen%2520YouWish%2520AS%2520linkedin&sa=X&ved=2ahUKEwib39zF-rKPAxUxdqQEHXVNGscQs6gLegQIGhAB"
+    },
+    {
+      "title": "News",
+      "href": "https://google.com/search?sca_esv=aaab0204b1a39732&gl=US&hl=en&q=Joakim%2520Rosen%2520YouWish%2520AS%2520linkedin&tbm=nws&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3x-dd8PyEzi5Y9BtPQcYyUv-qqGBKcZRAt6t3qPZ3-iSZ6GtBRrUomyC2rUgS4TDygQfIaiWCtBi0gw2eDDygE9ZsO235rUXAUX4XMOSF0AZ0oNb07blcuzshZNivp14ZK7ZppxA&sa=X&ved=2ahUKEwib39zF-rKPAxUxdqQEHXVNGscQ0pQJegQIFhAB"
+    },
+    {
+      "title": "Forums",
+      "href": "https://google.com/search?sca_esv=aaab0204b1a39732&gl=US&hl=en&udm=18&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3x-dd8PyEzi5Y9BtPQcYyUv-qqGBKcZRAt6t3qPZ3-iSZ6GtBRrUomyC2rUgS4TDygQfIaiWCtBi0gw2eDDygE9ZsO235rUXAUX4XMOSF0AZ0oNb07blcuzshZNivp14ZK7ZppxA&q=Joakim%2520Rosen%2520YouWish%2520AS%2520linkedin&sa=X&ved=2ahUKEwib39zF-rKPAxUxdqQEHXVNGscQs6gLegQIHxAB"
+    },
+    {
+      "title": "Web",
+      "href": "https://google.com/search?sca_esv=aaab0204b1a39732&gl=US&hl=en&udm=14&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3x-dd8PyEzi5Y9BtPQcYyUv-qqGBKcZRAt6t3qPZ3-iSZ6GtBRrUomyC2rUgS4TDygQfIaiWCtBi0gw2eDDygE9ZsO235rUXAUX4XMOSF0AZ0oNb07blcuzshZNivp14ZK7ZppxA&q=Joakim%2520Rosen%2520YouWish%2520AS%2520linkedin&sa=X&ved=2ahUKEwib39zF-rKPAxUxdqQEHXVNGscQs6gLegQIIhAB"
+    },
+    {
+      "title": "Maps",
+      "href": "https://maps.google.com/maps?sca_esv=aaab0204b1a39732&gl=US&hl=en&output=search&q=Joakim%2520Rosen%2520YouWish%2520AS%2520linkedin&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3x-dd8PyEzi5Y9BtPQcYyUv-qqGBKcZRAt6t3qPZ3-iSZ6GtBRrUomyC2rUgS4TDygQfIaiWCtBi0gw2eDDygE9ZsO235rUXAUX4XMOSF0AZ0oNb07blcuzshZNivp14ZK7ZppxA&entry=mc&ved=1t:200715&ictx=111"
+    },
+    {
+      "title": "Books",
+      "href": "https://google.com/search?sca_esv=aaab0204b1a39732&gl=US&hl=en&q=Joakim%2520Rosen%2520YouWish%2520AS%2520linkedin&udm=36&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3x-dd8PyEzi5Y9BtPQcYyUv-qqGBKcZRAt6t3qPZ3-iSZ6GtBRrUomyC2rUgS4TDygQfIaiWCtBi0gw2eDDygE9ZsO235rUXAUX4XMOSF0AZ0oNb07blcuzshZNivp14ZK7ZppxA&sa=X&ved=2ahUKEwib39zF-rKPAxUxdqQEHXVNGscQ0pQJegQIIBAB"
+    }
+  ],
+  "organic": [
+    {
+      "link": "https://www.linkedin.com/in/joakim-ros%C3%A9n-189a0477/",
+      "display_link": "790+ followers",
+      "title": "Joakim Rosén - Co-founder & CTO - Etals",
+      "description": "Experience ; CTO & Co-founder. Etals. Jan 2024 ; Senior Fullstack Developer. Frend Digital. Aug 2023 ; Lead developer. YouWish AS. May 2016 ; CTO. PSD Media. Nov ...",
+      "extensions": [
+        {
+          "type": "missing",
+          "text": "20AS%",
+          "rank": 1
+        },
+        {
+          "type": "must_include",
+          "text": "20AS%",
+          "link": "https://google.com/search?sca_esv=aaab0204b1a39732&gl=US&hl=en&q=Joakim%2520Rosen%2520YouWish%25+%2220AS%25%22+20linkedin&sa=X&ved=2ahUKEwib39zF-rKPAxUxdqQEHXVNGscQ5t4CegQIHRAB",
+          "rank": 2
+        }
+      ],
+      "rank": 1,
+      "global_rank": 1
+    }
+  ],
+  "ai_overview": {
+    "error": "AI Overview did not appear on original SERP. Please ensure that you are using the `brd_ai_overview=2` query parameter (https://docs.brightdata.com/scraping-automation/serp-api/query-parameters/google#ai-overview), and that your query is relevant for triggering an AI Overview."
+  }
+}

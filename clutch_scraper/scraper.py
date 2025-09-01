@@ -99,43 +99,147 @@ class GracefulKiller:
 def display_categories():
     """Display available categories for user selection"""
     categories = {
-        1: ("Development", {
+        1: ("Advertising & Marketing", {
+            1: ("Advertising", "agencies"),
+            2: ("Full Service Digital", "agencies/digital"),
+            3: ("Digital Strategy", "agencies/digital-strategy"),
+            4: ("Digital Marketing", "agencies/digital-marketing"),
+            5: ("Social Media Marketing", "agencies/social-media-marketing"),
+            6: ("Content Marketing", "agencies/content-marketing"),
+            7: ("Email Marketing", "agencies/email"),
+            8: ("Inbound Marketing", "agencies/inbound-marketing"),
+            9: ("Direct Marketing", "agencies/direct-marketing"),
+            10: ("Mobile & App Marketing", "agencies/app-marketing"),
+            11: ("Event Marketing", "agencies/event"),
+            12: ("Experiential Marketing", "agencies/experiential"),
+            13: ("Creative", "agencies/creative"),
+            14: ("Public Relations", "pr-firms"),
+            15: ("Video Production", "agencies/video-production"),
+            16: ("Branding", "agencies/branding"),
+            17: ("Naming", "agencies/naming"),
+            18: ("PPC", "agencies/ppc"),
+            19: ("SEO", "seo-firms"),
+            20: ("SEM", "agencies/sem"),
+            21: ("Conversion Optimization", "agencies/conversion-optimization"),
+            22: ("Market Research", "agencies/market-research"),
+            23: ("Media Planning and Buying", "agencies/media-buying"),
+            24: ("Marketing Automation", "it-services/marketing-automation"),
+        }),
+        2: ("Development", {
             1: ("Web Developers", "web-developers"),
             2: ("Software Developers", "developers"),
             3: ("Mobile App Development", "app-developers"),
-            4: ("eCommerce", "ecommerce-developers"),
-            5: ("WordPress Developers", "wordpress"),
-            6: ("Shopify", "shopify"),
-            7: ("Ruby on Rails", "ruby-rails"),
-            8: ("PHP", "php"),
-            9: ("Drupal", "drupal"),
-            10: ("Magento", "magento")
+            4: ("iPhone App Development", "app-developers/iphone"),
+            5: ("Android App Development", "app-developers/android"),
+            6: ("eCommerce", "developers/ecommerce"),
+            7: ("Artificial Intelligence", "developers/artificial-intelligence"),
+            8: ("Blockchain", "developers/blockchain"),
+            9: ("AR/VR", "developers/virtual-reality"),
+            10: ("IoT", "developers/internet-of-things"),
+            11: ("Ruby on Rails", "developers/ruby-rails"),
+            12: ("Shopify", "developers/shopify"),
+            13: ("WordPress Developers", "developers/wordpress"),
+            14: ("Drupal", "developers/drupal"),
+            15: ("Magento", "developers/magento"),
+            16: (".NET", "developers/dot-net"),
+            17: ("PHP", "web-developers/php"),
+            18: ("Wearables", "app-developers/wearables"),
+            19: ("Software Testing", "developers/testing"),
         }),
-        2: ("Marketing", {
-            1: ("Digital Marketing", "digital-marketing-agencies"),
-            2: ("SEO", "seo-companies"),
-            3: ("PPC", "ppc-companies"),
-            4: ("Social Media Marketing", "social-media-marketing"),
-            5: ("Content Marketing", "content-marketing"),
-            6: ("Email Marketing", "email-marketing"),
-            7: ("Branding", "branding-agencies"),
-            8: ("Public Relations", "pr-firms")
-        }),
-        3: ("Design", {
-            1: ("Web Design", "web-designers"),
-            2: ("UX/UI Design", "ux-ui-design"),
-            3: ("Graphic Design", "graphic-designers"),
-            4: ("Logo Design", "logo-designers"),
-            5: ("Product Design", "product-designers")
+        3: ("Design & Production", {
+            1: ("Design", "agencies/design"),
+            2: ("Digital Design", "agencies/digital-design"),
+            3: ("Web Design", "web-designers"),
+            4: ("User Experience (UX/UI)", "agencies/ui-ux"),
+            5: ("Packaging Design", "agencies/packaging-design"),
+            6: ("Print Design", "agencies/print-design"),
+            7: ("Graphic Design", "agencies/graphic-designers"),
+            8: ("Logo Design", "agencies/logo-designers"),
+            9: ("Product Design", "agencies/logo-designers"),
+            10: ("Interior Design", "agencies/design/interior"),
         }),
         4: ("IT Services", {
             1: ("IT Services", "it-services"),
-            2: ("Cybersecurity", "cybersecurity"),
-            3: ("Cloud Consulting", "cloud-consulting"),
-            4: ("Managed IT Services", "managed-it-services")
-        })
+            2: ("BI & Big Data", "it-services/analytics"),
+            3: ("Staff Augmentation", "it-services/staff-augmentation"),
+            4: ("Cybersecurity", "it-services/cybersecurity"),
+            5: ("Cloud Consulting", "it-services/cloud"),
+            6: ("Managed Service Providers", "it-services/msp"),
+        }),
+        5: ("Business Services", {
+            1: ("BPO", "bpo"),
+            2: ("Human Resources", "hr"),
+            3: ("Consulting", "consulting"),
+            4: ("Accounting", "accounting"),
+            5: ("Payroll Processing", "accounting/payroll"),
+            6: ("Call Centers", "call-centers"),
+            7: ("Answering Services", "call-centers/answering-services"),
+            8: ("Telemarketing", "call-centers/telemarketing"),
+            9: ("Transcription", "transcription"),
+            10: ("Translation", "translation"),
+            11: ("Real Estate", "real-estate"),
+            12: ("Logistics & Supply Chain Consulting", "logistics/supply-chain-management"),
+            13: ("Contract Manufacturing", "logistics/manufacturing-companies"),
+            14: ("Customs Brokerage", "logistics/customs-brokers"),
+            15: ("Warehousing & Distribution", "logistics/distribution-companies"),
+            16: ("Fulfillment", "logistics/fulfillment-services"),
+            17: ("Freight Forwarding", "logistics/freight-forwarders"),
+            18: ("Rail Freight", "logistics/rail-freight-companies"),
+            19: ("Airfreight", "logistics/air-freight-companies"),
+            20: ("Trucking", "logistics/trucking-companies"),
+            21: ("Ocean Freight", "logistics/container-shipping-companies"),
+            22: ("3PL", "logistics/3pls"),
+            23: ("Shipping", "logistics/shipping-companie"),
+            24: ("Legal", "law"),
+            25: ("Executive Search", "hr/executive-search"),
+            26: ("HR Staffing", "hr/staffing"),
+            27: ("HR Recruiting", "hr/recruiting"),
+            28: ("HR Consulting", "hr/consultants"),
+            29: ("PEO", "hr/peo"),
+            30: ("HR Outsourcing", "hr/outsourcing"),
+        }),
     }
     return categories
+
+    # """Display available categories for user selection"""
+    # categories = {
+    #     1: ("Development", {
+    #         1: ("Web Developers", "web-developers"),
+    #         2: ("Software Developers", "developers"),
+    #         3: ("Mobile App Development", "app-developers"),
+    #         4: ("eCommerce", "ecommerce-developers"),
+    #         5: ("WordPress Developers", "wordpress"),
+    #         6: ("Shopify", "shopify"),
+    #         7: ("Ruby on Rails", "ruby-rails"),
+    #         8: ("PHP", "php"),
+    #         9: ("Drupal", "drupal"),
+    #         10: ("Magento", "magento")
+    #     }),
+    #     2: ("Marketing", {
+    #         1: ("Digital Marketing", "digital-marketing-agencies"),
+    #         2: ("SEO", "seo-companies"),
+    #         3: ("PPC", "ppc-companies"),
+    #         4: ("Social Media Marketing", "social-media-marketing"),
+    #         5: ("Content Marketing", "content-marketing"),
+    #         6: ("Email Marketing", "email-marketing"),
+    #         7: ("Branding", "branding-agencies"),
+    #         8: ("Public Relations", "pr-firms")
+    #     }),
+    #     3: ("Design", {
+    #         1: ("Web Design", "web-designers"),
+    #         2: ("UX/UI Design", "web-designers"),
+    #         3: ("Graphic Design", "graphic-designers"),
+    #         4: ("Logo Design", "logo-designers"),
+    #         5: ("Product Design", "product-designers")
+    #     }),
+    #     4: ("IT Services", {
+    #         1: ("IT Services", "it-services"),
+    #         2: ("Cybersecurity", "cybersecurity"),
+    #         3: ("Cloud Consulting", "cloud-consulting"),
+    #         4: ("Managed IT Services", "managed-it-services")
+    #     })
+    # }
+    # return categories
 
 def get_user_category_selection():
     """Get category selection from user"""
